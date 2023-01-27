@@ -1,3 +1,6 @@
+![01](https://user-images.githubusercontent.com/96341377/215006752-b2a86dd8-043d-46f4-8887-8308c56d71e5.jpg)
+
+
 An application that generates PET NAMES when the animal type is entered as the input. Since users will be entering the type of animal their pet is, it dynamically swaps out the part of the prompt that specifies the animal.
 
 ## Setup
